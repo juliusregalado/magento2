@@ -5,3 +5,8 @@ auth.json
 /dev/tests/integration/*
 /dev/tests/js/*
 /dev/tests/setup-integration/*
+
+/.php_cs
+/.php_cs.cache
+
+/generated/*
