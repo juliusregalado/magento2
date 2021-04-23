@@ -1,3 +1,7 @@
 auth.json
 
 /vendor/*
+/dev/tests/api-functional/*
+/dev/tests/integration/*
+/dev/tests/js/*
+/dev/tests/setup-integration/*
